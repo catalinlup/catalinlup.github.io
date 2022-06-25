@@ -19,19 +19,25 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Catalin's Tech Blog
-email: catalin.lupau10.workrelated@gmail.com
+email: catalin.lupau10@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Catalin's technical blog. It contains articles about various computer science topics,
   such as algorithms, AI, software engineerng methods, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://catalinlup.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: catalinlup12
+linkedin_username: catalinlup
 github_username:  catalinlup
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - algorithms.md
+  - AI.md
+  - software_engineering.md
+  - about.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
