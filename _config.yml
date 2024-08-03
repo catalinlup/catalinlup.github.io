@@ -31,9 +31,9 @@ linkedin_username: catalinlup
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,10 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  Hi, my name is Catalin Lupau and I am a machine learning engineer with a strong background in software development. I can develop and train deep learning models as well as build full-stack software applications. My specialization is <mark>natural language processing</mark>. I have spent 9 months doing research in the field neural search, which consists of applying natural language processing (NLP) to search engines.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
