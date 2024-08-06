@@ -107,14 +107,14 @@ content:
           During my time as a software developer at ScenWise I learned development processes (e.g. AGILE development) and best practices, while creating a traffic management tool using Spring Boot and React. I wrote clean, well-structured and well-tested code for the project, while simultanously acting as a SCRUM master for my team.
 
       - layout: left
-        title: Delft University of Technology
+        title: TU Delft
         sub_title: Teaching Assistant
         caption: November 2020 - February 2021
         description: |
           As a teaching assistant for my university I assisted students with lab assignments and answered questions regarding the material for the Algorithms and Data Structures course. My experience as a university teaching assistant proved very useful later in my career. It taught me to explain highly complex concepts in simple terms, which is often necessary when working with people that have a different educational background than yours.
 
       - layout: left
-        title: Code Dojo
+        title: Coder Dojo
         sub_title: Robotics Mentor
         caption: September 2016 - July 2019
         description: |
@@ -124,7 +124,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Delft University of Technology (TU Delft)
+        title: TU Delft
         caption: September 2022 - June 2024
         sub_title: MSc Computer Science (AI Track) - Cum Laude
         quote: >
@@ -135,7 +135,7 @@ content:
           On top of the above, I have developed the ability to comprehend and perform state-of-the-art research, as well as apply the gained insights in products. Since AI is a rapidly developing field, I stronly believe that my ability to stay in touch with the latest research is my key stength.
 
       - layout: left
-        title: Delft University of Technology (TU Delft)
+        title: TU Delft
         caption: September 2019 - July 2022
         sub_title: BSc Computer Science & Engineering - Cum Laude
         description: | # this will include new lines to allow paragraphs
