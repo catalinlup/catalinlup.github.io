@@ -86,41 +86,78 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: Docklab
+        sub_title: AI & Software Engineer
+        caption: September 2022 - Present
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            My responsibilities at Docklab were both as an AI engineer and a full-stack software developer, based on the company's necessities. As Docklab is a venture studio, I took up high-risk projects and developed them to the point that they could be validated with clients and turned into Docklab spin-offs. This meant that I had the opportunity to work and gain experience in training machine learning / deep learning models (using scikit-learn, PyTorch, Huggingface), doing backend development (using FastAPI and Flask), as well as frontend development (using Typescript + React). I was occasionally responsible for DevOps, specifically configuring automatic deployment and testing in GitHub Actions and Terraform. In addition to all of these, I would set up our production environments, which led to me gaining experience using Google Cloud solutions, such as Vertex AI or Cloud Run. In summary, since Docklab is a small company taking up diverse software projects, I was lucky enough to gain real-life experience applying many technologies in a wide range of contexts.
+      
+      - layout: left
+        title: Siemens
+        sub_title: Robotics Developer Intern
+        caption: September 2021 - January 2022
+        description: |
+            As part of a team of 6 students (2 mechanical engineers, 1 electrical engineer, 1 industrial designer, and 2 computer scientists, including myself), I worked on creating a robot that handles container twistlocks in a harbor environment. The project involved design and implementation (creating a fully functional prototype of the robot). My responsibilities were as a machine learning engineer and a general full-stack software developer. I had to write both low-level control software running on the robot, as well as a high-level web application used to control it. In addition to this, I trained YOLOv4-based computer-vision model to detect twistlocks. The project was done as part of the university's robotics minor in collaboration with Siemens.
+
+      - layout: left
+        title: ScenWise
+        sub_title: Software Developer Intern
+        caption: April 2021 - July 2021
+        description: |
+          During my time as a software developer at ScenWise I learned development processes (e.g. AGILE development) and best practices, while creating a traffic management tool using Spring Boot and React. I wrote clean, well-structured and well-tested code for the project, while simultanously acting as a SCRUM master for my team.
+
+      - layout: left
+        title: Delft University of Technology
+        sub_title: Teaching Assistant
+        caption: November 2020 - February 2021
+        description: |
+          As a teaching assistant for my university I assisted students with lab assignments and answered questions regarding the material for the Algorithms and Data Structures course. My experience as a university teaching assistant proved very useful later in my career. It taught me to explain highly complex concepts in simple terms, which is often necessary when working with people that have a different educational background than yours.
+
+      - layout: left
+        title: Code Dojo
+        sub_title: Robotics Mentor
+        caption: September 2016 - July 2019
+        description: |
+          My role as a robotics mentor at Coder Dojo was to assist club members (younger high school or middle school students) with their Aruduino or Raspberry Pi robotics projects. In addition to that, I engaged in computer science projects with other mentor and club members.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Delft University of Technology (TU Delft)
+        caption: September 2022 - June 2024
+        sub_title: MSc Computer Science (AI Track) - Cum Laude
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          The Delft University of Technology (TU Delft; Dutch: Technische Universiteit Delft) is the oldest and largest Dutch public technical university, located in Delft, The Netherlands. It specializes in engineering, technology, computing, design, and natural sciences.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time following a masters degree at TU Delft, I have specialized in Aritificial Intelligence. I have developed deep knwoledge in key areas such as <mark>Statistics & Probability Theory</mark>, <mark>Machine Learning</mark> and <mark>Deep Learning</mark>, which are essential for any well-rounded AI engineer. 
+          
+          On top of the above, I have developed the ability to comprehend and perform state-of-the-art research, as well as apply the gained insights in products. Since AI is a rapidly developing field, I stronly believe that my ability to stay in touch with the latest research is my key stength.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: Delft University of Technology (TU Delft)
+        caption: September 2019 - July 2022
+        sub_title: BSc Computer Science & Engineering - Cum Laude
+        description: | # this will include new lines to allow paragraphs
+          My bachelor degree trained me to become a good software engineer, while at the same time providing me with basic machine learning knowledge. 
+          
+          During my bachelor I had the opportunity to take part in many software development team projects and internships, which gave me practical experience and helped me develop leadership skills, as well as the ability to work well in diverse international environments.
+      
+      - layout: left
+        title: C.N. Emanuil Gojdu, Oradea, Romania
+        caption: September 2015 - June 2019
+        sub_title: High School Diploma
+        description: |
+          During my high school years I always strived for excellence, which resulted in me graduating as a valedictorian (highest average grade in my generation).
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my passion for AI and software engineering some of my other interests and hobbies are:
+      - Science Fiction (I am a big Star Trek fan :))
+      - Reading and having debates about philosophy, macro-economics or geopolitics
+      - Pursuing a healthy diet and training
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
