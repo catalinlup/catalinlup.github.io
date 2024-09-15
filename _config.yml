@@ -58,11 +58,11 @@ content:
     content:
       - layout: top-middle
         title: Development of quantization algorithm for neural search
-        link: http://resolver.tudelft.nl/uuid:f6fa94f8-ca16-4362-8858-08ca8f0dcd21
+        link: https://drive.google.com/file/d/1DSUFMNdg-sT5OZnczePKTv9lUn3CNo2a/view?usp=sharing
         link_text: View research thesis
-        additional_links:
-          - title:  Download thesis
-            url: https://drive.google.com/file/d/1DSUFMNdg-sT5OZnczePKTv9lUn3CNo2a/view?usp=sharing
+        # additional_links:
+        #   - title:  Download thesis
+        #     url: https://drive.google.com/file/d/1DSUFMNdg-sT5OZnczePKTv9lUn3CNo2a/view?usp=sharing
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
