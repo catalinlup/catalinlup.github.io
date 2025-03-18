@@ -75,7 +75,7 @@ content:
         link: https://drive.google.com/file/d/1Ov6hczT8zwxKNEaQTQpU7PxEVbOgy6Im/view?usp=sharing
         link_text: View project video
         description: |
-          The project consisted of developing a fully functional robot prototype to handle container twistlocks. The project was done in a team of 5 other students with various backgrounds and it involved both designing and building the robot. My role as a computer scientist was training the computer vision model to detect the twistlocks, implementing the low-level control software that would run the robot, aswellasawebapplicationfortheuserstointeractwiththerobot. The project was done as part of TU Delft's robotics minor in collaboration with Siemens, in an internship format.
+          The project consisted of developing a fully functional robot prototype to handle container twistlocks. The project was done in a team of 5 other students with various backgrounds and it involved both designing and building the robot. My role as a computer scientist was training the computer vision model to detect the twistlocks, implementing the low-level control software that would run the robot, as well as a web application for the users to interact with the robot. The project was done as part of TU Delft's robotics minor in collaboration with Siemens, in an internship format.
       
       - layout: top-middle
         title: Red teaming large language models
@@ -90,7 +90,7 @@ content:
       - layout: left
         title: Docklab
         sub_title: AI & Software Engineer
-        caption: September 2022 - Present
+        caption: September 2022 - January 2025
         description: | # this will include new lines to allow paragraphs
             My responsibilities at Docklab were both as an AI engineer and a full-stack software developer, based on the company's necessities. As Docklab is a venture studio, I took up high-risk projects and developed them to the point that they could be validated with clients and turned into Docklab spin-offs. This meant that I had the opportunity to work and gain experience in training machine learning / deep learning models (using scikit-learn, PyTorch, Huggingface), doing backend development (using FastAPI and Flask), as well as frontend development (using Typescript + React). I was occasionally responsible for DevOps, specifically configuring automatic deployment and testing in GitHub Actions and Terraform. In addition to all of these, I would set up our production environments, which led to me gaining experience using Google Cloud solutions, such as Vertex AI or Cloud Run. In summary, since Docklab is a small company taking up diverse software projects, I was lucky enough to gain real-life experience applying many technologies in a wide range of contexts.
       
